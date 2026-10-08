@@ -9,7 +9,7 @@ namespace rttr::version {
 
 std::string GetTitle()
 {
-    return "Return To The Roots";
+    return "Settlers 2 Get Loco";
 }
 
 std::string GetVersion()

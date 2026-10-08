@@ -73,7 +73,7 @@ iwOptionsWindow::iwOptionsWindow(SoundManager& soundManager)
     AddImage(ID_imgSoldier, curPos + soldierOffset, LOADER.GetImageN("io", 30));
     curPos.y += textSpacing + soldierOffset.y;
 
-    AddText(ID_txtRttr, curPos, "Return To The Roots", COLOR_YELLOW, FontStyle::CENTER, NormalFont);
+    AddText(ID_txtRttr, curPos, rttr::version::GetTitle(), COLOR_YELLOW, FontStyle::CENTER, NormalFont);
     curPos.y += textSpacing;
 
     AddText(ID_txtVersion, curPos, rttr::version::GetReadableVersion(), COLOR_YELLOW, FontStyle::CENTER, NormalFont);

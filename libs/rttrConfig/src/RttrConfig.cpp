@@ -23,11 +23,11 @@ namespace bfs = boost::filesystem;
 #    define RTTR_USERDATADIR RTTR_SETTINGSDIR
 #elif !defined(RTTR_USERDATADIR)
 #    if defined(_WIN32)
-#        define RTTR_USERDATADIR "~/Return To The Roots"
+#        define RTTR_USERDATADIR "~/Settlers 2 Get Loco"
 #    elif defined(__APPLE__)
-#        define RTTR_USERDATADIR "~/Library/Application Support/Return To The Roots"
+#        define RTTR_USERDATADIR "~/Library/Application Support/Settlers 2 Get Loco"
 #    else
-#        define RTTR_USERDATADIR "~/.s25rttr"
+#        define RTTR_USERDATADIR "~/.s25getloco"
 #    endif
 #endif // !RTTR_SETTINGSDIR
 

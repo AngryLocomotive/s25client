@@ -4,7 +4,13 @@ Copyright (C) 2005 - 2025 Settlers Freaks <sf-team at siedler25.org>
 SPDX-License-Identifier: GPL-2.0-or-later
 -->
 
-# Return To The Roots
+# Settlers 2 Get Loco
+
+"Settlers 2 Get Loco" is a fan spin-off of [Return To The Roots](https://github.com/Return-To-The-Roots/s25client),
+licensed under the GPL-2.0-or-later like the original. All credit for the base engine goes to the Settlers Freaks team.
+You still need your own copy of the original "The Settlers 2" game data to play; it is not included.
+
+## Original project: Return To The Roots
 
 "Return To The Roots" is a fan-project, which aims to renew the original The Settlers 2.
 
